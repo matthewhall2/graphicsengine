@@ -1,0 +1,590 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Resource Files\Meshes">
+      <UniqueIdentifier>{8f8f8546-1d23-4a18-b7d5-b4ed24ea87b3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Textures">
+      <UniqueIdentifier>{a134c937-d52a-4b3b-a558-2778b77790ae}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Textures\brick_1">
+      <UniqueIdentifier>{8f8f8546-1d23-4a18-b7d5-b4ed24ea87b4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Textures\brick_2">
+      <UniqueIdentifier>{8f8f8546-1d23-4a18-b7d5-b4ed24ea87b5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Textures\bulding_window">
+      <UniqueIdentifier>{8f8f8546-1d23-4a18-b7d5-b4ed24ea87b6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Textures\car_1">
+      <UniqueIdentifier>{8f8f8546-1d23-4a18-b7d5-b4ed24ea87b7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Textures\concrete_1">
+      <UniqueIdentifier>{8f8f8546-1d23-4a18-b7d5-b4ed24ea87b8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Textures\enemy_body">
+      <UniqueIdentifier>{8f8f8546-1d23-4a18-b7d5-b4ed24ea87b9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Textures\enemy_rudders">
+      <UniqueIdentifier>{8f8f8546-1d23-4a18-b7d5-b4ed24ea87c1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Textures\engine_housing">
+      <UniqueIdentifier>{8f8f8546-1d23-4a18-b7d5-b4ed24ea87c2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Textures\engine_housing_rotor">
+      <UniqueIdentifier>{8f8f8546-1d23-4a18-b7d5-b4ed24ea87c3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Textures\Fabric047_1K-JPG">
+      <UniqueIdentifier>{8f8f8546-1d23-4a18-b7d5-b4ed24ea87c4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Textures\manhole_1">
+      <UniqueIdentifier>{8f8f8546-1d23-4a18-b7d5-b4ed24ea87c5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Textures\player_body">
+      <UniqueIdentifier>{8f8f8546-1d23-4a18-b7d5-b4ed24ea87c6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Textures\player_rudders">
+      <UniqueIdentifier>{8f8f8546-1d23-4a18-b7d5-b4ed24ea87c7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Textures\propellor_blade">
+      <UniqueIdentifier>{8f8f8546-1d23-4a18-b7d5-b4ed24ea87c8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Textures\road_1">
+      <UniqueIdentifier>{8f8f8546-1d23-4a18-b7d5-b4ed24ea87c9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\shaders">
+      <UniqueIdentifier>{57c7a06c-8092-4787-a84a-4b03c32e2dff}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\shaders\vertex">
+      <UniqueIdentifier>{00fa6969-cace-4f94-8ea6-a0f4a91640b0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\shaders\fragment">
+      <UniqueIdentifier>{ef7ac2b6-d885-4e46-b873-f971ba0deaed}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\SOIL2">
+      <UniqueIdentifier>{6ab102da-e1ab-437c-84f1-a8db719fb038}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\SOIL2">
+      <UniqueIdentifier>{21c99cee-dcea-40a7-9b2a-25151a50e0bd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Textures\fun">
+      <UniqueIdentifier>{696ff531-0bfe-4ff8-b5f8-fb2fa2c76c61}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Textures\ground">
+      <UniqueIdentifier>{0bf73cf4-cd58-4c7e-9963-ece4f500e06e}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Bricks059_1K-JPG_Roughness.jpg">
+      <Filter>Resource Files\Textures\brick_1</Filter>
+    </Resource>
+    <Resource Include="Bricks059.png">
+      <Filter>Resource Files\Textures\brick_1</Filter>
+    </Resource>
+    <Resource Include="Bricks059_1K-JPG_AmbientOcclusion.jpg">
+      <Filter>Resource Files\Textures\brick_1</Filter>
+    </Resource>
+    <Resource Include="Bricks059_1K-JPG_Color.jpg">
+      <Filter>Resource Files\Textures\brick_1</Filter>
+    </Resource>
+    <Resource Include="Bricks059_1K-JPG_Displacement.jpg">
+      <Filter>Resource Files\Textures\brick_1</Filter>
+    </Resource>
+    <Resource Include="Bricks059_1K-JPG_NormalDX.jpg">
+      <Filter>Resource Files\Textures\brick_1</Filter>
+    </Resource>
+    <Resource Include="Bricks059_1K-JPG_NormalGL.jpg">
+      <Filter>Resource Files\Textures\brick_1</Filter>
+    </Resource>
+    <Resource Include="Bricks066_1K-JPG_Roughness.jpg">
+      <Filter>Resource Files\Textures\brick_2</Filter>
+    </Resource>
+    <Resource Include="Bricks066.png">
+      <Filter>Resource Files\Textures\brick_2</Filter>
+    </Resource>
+    <Resource Include="Bricks066_1K-JPG_AmbientOcclusion.jpg">
+      <Filter>Resource Files\Textures\brick_2</Filter>
+    </Resource>
+    <Resource Include="Bricks066_1K-JPG_Color.jpg">
+      <Filter>Resource Files\Textures\brick_2</Filter>
+    </Resource>
+    <Resource Include="Bricks066_1K-JPG_Displacement.jpg">
+      <Filter>Resource Files\Textures\brick_2</Filter>
+    </Resource>
+    <Resource Include="Bricks066_1K-JPG_NormalDX.jpg">
+      <Filter>Resource Files\Textures\brick_2</Filter>
+    </Resource>
+    <Resource Include="Bricks066_1K-JPG_NormalGL.jpg">
+      <Filter>Resource Files\Textures\brick_2</Filter>
+    </Resource>
+    <Resource Include="Concrete044B_1K-JPG_Roughness.jpg">
+      <Filter>Resource Files\Textures\concrete_1</Filter>
+    </Resource>
+    <Resource Include="Concrete044B.png">
+      <Filter>Resource Files\Textures\concrete_1</Filter>
+    </Resource>
+    <Resource Include="Concrete044B_1K-JPG_AmbientOcclusion.jpg">
+      <Filter>Resource Files\Textures\concrete_1</Filter>
+    </Resource>
+    <Resource Include="Concrete044B_1K-JPG_Color.jpg">
+      <Filter>Resource Files\Textures\concrete_1</Filter>
+    </Resource>
+    <Resource Include="Concrete044B_1K-JPG_Displacement.jpg">
+      <Filter>Resource Files\Textures\concrete_1</Filter>
+    </Resource>
+    <Resource Include="Concrete044B_1K-JPG_Metalness.jpg">
+      <Filter>Resource Files\Textures\concrete_1</Filter>
+    </Resource>
+    <Resource Include="Concrete044B_1K-JPG_NormalDX.jpg">
+      <Filter>Resource Files\Textures\concrete_1</Filter>
+    </Resource>
+    <Resource Include="Concrete044B_1K-JPG_NormalGL.jpg">
+      <Filter>Resource Files\Textures\concrete_1</Filter>
+    </Resource>
+    <Resource Include="Fabric047.png">
+      <Filter>Resource Files\Textures\player_body</Filter>
+    </Resource>
+    <Resource Include="Fabric047_1K-JPG_AmbientOcclusion.jpg">
+      <Filter>Resource Files\Textures\player_body</Filter>
+    </Resource>
+    <Resource Include="Fabric047_1K-JPG_Color.jpg">
+      <Filter>Resource Files\Textures\player_body</Filter>
+    </Resource>
+    <Resource Include="Fabric047_1K-JPG_Displacement.jpg">
+      <Filter>Resource Files\Textures\player_body</Filter>
+    </Resource>
+    <Resource Include="Fabric047_1K-JPG_NormalDX.jpg">
+      <Filter>Resource Files\Textures\player_body</Filter>
+    </Resource>
+    <Resource Include="Fabric047_1K-JPG_NormalGL.jpg">
+      <Filter>Resource Files\Textures\player_body</Filter>
+    </Resource>
+    <Resource Include="Fabric047_1K-JPG_Roughness.jpg">
+      <Filter>Resource Files\Textures\player_body</Filter>
+    </Resource>
+    <Resource Include="Fabric049.png">
+      <Filter>Resource Files\Textures\enemy_body</Filter>
+    </Resource>
+    <Resource Include="Fabric049_1K-JPG_AmbientOcclusion.jpg">
+      <Filter>Resource Files\Textures\enemy_body</Filter>
+    </Resource>
+    <Resource Include="Fabric049_1K-JPG_Color.jpg">
+      <Filter>Resource Files\Textures\enemy_body</Filter>
+    </Resource>
+    <Resource Include="Fabric049_1K-JPG_Displacement.jpg">
+      <Filter>Resource Files\Textures\enemy_body</Filter>
+    </Resource>
+    <Resource Include="Fabric049_1K-JPG_NormalDX.jpg">
+      <Filter>Resource Files\Textures\enemy_body</Filter>
+    </Resource>
+    <Resource Include="Fabric049_1K-JPG_NormalGL.jpg">
+      <Filter>Resource Files\Textures\enemy_body</Filter>
+    </Resource>
+    <Resource Include="Fabric049_1K-JPG_Roughness.jpg">
+      <Filter>Resource Files\Textures\enemy_body</Filter>
+    </Resource>
+    <Resource Include="ManholeCover009_1K-JPG_Roughness.jpg">
+      <Filter>Resource Files\Textures\manhole_1</Filter>
+    </Resource>
+    <Resource Include="ManholeCover009.png">
+      <Filter>Resource Files\Textures\manhole_1</Filter>
+    </Resource>
+    <Resource Include="ManholeCover009_1K-JPG_AmbientOcclusion.jpg">
+      <Filter>Resource Files\Textures\manhole_1</Filter>
+    </Resource>
+    <Resource Include="ManholeCover009_1K-JPG_Color.jpg">
+      <Filter>Resource Files\Textures\manhole_1</Filter>
+    </Resource>
+    <Resource Include="ManholeCover009_1K-JPG_Displacement.jpg">
+      <Filter>Resource Files\Textures\manhole_1</Filter>
+    </Resource>
+    <Resource Include="ManholeCover009_1K-JPG_Metalness.jpg">
+      <Filter>Resource Files\Textures\manhole_1</Filter>
+    </Resource>
+    <Resource Include="ManholeCover009_1K-JPG_NormalDX.jpg">
+      <Filter>Resource Files\Textures\manhole_1</Filter>
+    </Resource>
+    <Resource Include="ManholeCover009_1K-JPG_NormalGL.jpg">
+      <Filter>Resource Files\Textures\manhole_1</Filter>
+    </Resource>
+    <Resource Include="ManholeCover009_1K-JPG_Opacity.jpg">
+      <Filter>Resource Files\Textures\manhole_1</Filter>
+    </Resource>
+    <Resource Include="Road003.png">
+      <Filter>Resource Files\Textures\road_1</Filter>
+    </Resource>
+    <Resource Include="Road003_1K-JPG_Color.jpg">
+      <Filter>Resource Files\Textures\road_1</Filter>
+    </Resource>
+    <Resource Include="Road003_1K-JPG_Displacement.jpg">
+      <Filter>Resource Files\Textures\road_1</Filter>
+    </Resource>
+    <Resource Include="Road003_1K-JPG_NormalDX.jpg">
+      <Filter>Resource Files\Textures\road_1</Filter>
+    </Resource>
+    <Resource Include="Road003_1K-JPG_NormalGL.jpg">
+      <Filter>Resource Files\Textures\road_1</Filter>
+    </Resource>
+    <Resource Include="Road003_1K-JPG_Roughness.jpg">
+      <Filter>Resource Files\Textures\road_1</Filter>
+    </Resource>
+    <Resource Include="Facade015_1K-JPG_Roughness.jpg">
+      <Filter>Resource Files\Textures\bulding_window</Filter>
+    </Resource>
+    <Resource Include="Facade015.png">
+      <Filter>Resource Files\Textures\bulding_window</Filter>
+    </Resource>
+    <Resource Include="Facade015_1K-JPG_Color.jpg">
+      <Filter>Resource Files\Textures\bulding_window</Filter>
+    </Resource>
+    <Resource Include="Facade015_1K-JPG_Displacement.jpg">
+      <Filter>Resource Files\Textures\bulding_window</Filter>
+    </Resource>
+    <Resource Include="Facade015_1K-JPG_Emission.jpg">
+      <Filter>Resource Files\Textures\bulding_window</Filter>
+    </Resource>
+    <Resource Include="Facade015_1K-JPG_NormalDX.jpg">
+      <Filter>Resource Files\Textures\bulding_window</Filter>
+    </Resource>
+    <Resource Include="Facade015_1K-JPG_NormalGL.jpg">
+      <Filter>Resource Files\Textures\bulding_window</Filter>
+    </Resource>
+    <Resource Include="MetalPlates015B_1K-JPG_Roughness.jpg">
+      <Filter>Resource Files\Textures\car_1</Filter>
+    </Resource>
+    <Resource Include="MetalPlates015B.png">
+      <Filter>Resource Files\Textures\car_1</Filter>
+    </Resource>
+    <Resource Include="MetalPlates015B_1K-JPG_AmbientOcclusion.jpg">
+      <Filter>Resource Files\Textures\car_1</Filter>
+    </Resource>
+    <Resource Include="MetalPlates015B_1K-JPG_Color.jpg">
+      <Filter>Resource Files\Textures\car_1</Filter>
+    </Resource>
+    <Resource Include="MetalPlates015B_1K-JPG_Displacement.jpg">
+      <Filter>Resource Files\Textures\car_1</Filter>
+    </Resource>
+    <Resource Include="MetalPlates015B_1K-JPG_Metalness.jpg">
+      <Filter>Resource Files\Textures\car_1</Filter>
+    </Resource>
+    <Resource Include="MetalPlates015B_1K-JPG_NormalDX.jpg">
+      <Filter>Resource Files\Textures\car_1</Filter>
+    </Resource>
+    <Resource Include="MetalPlates015B_1K-JPG_NormalGL.jpg">
+      <Filter>Resource Files\Textures\car_1</Filter>
+    </Resource>
+    <Resource Include="MetalPlates006.png">
+      <Filter>Resource Files\Textures\enemy_rudders</Filter>
+    </Resource>
+    <Resource Include="MetalPlates006_1K-JPG_Color.jpg">
+      <Filter>Resource Files\Textures\enemy_rudders</Filter>
+    </Resource>
+    <Resource Include="MetalPlates006_1K-JPG_Displacement.jpg">
+      <Filter>Resource Files\Textures\enemy_rudders</Filter>
+    </Resource>
+    <Resource Include="MetalPlates006_1K-JPG_Metalness.jpg">
+      <Filter>Resource Files\Textures\enemy_rudders</Filter>
+    </Resource>
+    <Resource Include="MetalPlates006_1K-JPG_NormalDX.jpg">
+      <Filter>Resource Files\Textures\enemy_rudders</Filter>
+    </Resource>
+    <Resource Include="MetalPlates006_1K-JPG_NormalGL.jpg">
+      <Filter>Resource Files\Textures\enemy_rudders</Filter>
+    </Resource>
+    <Resource Include="MetalPlates006_1K-JPG_Roughness.jpg">
+      <Filter>Resource Files\Textures\enemy_rudders</Filter>
+    </Resource>
+    <Resource Include="Metal030.png">
+      <Filter>Resource Files\Textures\engine_housing_rotor</Filter>
+    </Resource>
+    <Resource Include="Metal030_1K-JPG_Color.jpg">
+      <Filter>Resource Files\Textures\engine_housing_rotor</Filter>
+    </Resource>
+    <Resource Include="Metal030_1K-JPG_Displacement.jpg">
+      <Filter>Resource Files\Textures\engine_housing_rotor</Filter>
+    </Resource>
+    <Resource Include="Metal030_1K-JPG_Metalness.jpg">
+      <Filter>Resource Files\Textures\engine_housing_rotor</Filter>
+    </Resource>
+    <Resource Include="Metal030_1K-JPG_NormalDX.jpg">
+      <Filter>Resource Files\Textures\engine_housing_rotor</Filter>
+    </Resource>
+    <Resource Include="Metal030_1K-JPG_NormalGL.jpg">
+      <Filter>Resource Files\Textures\engine_housing_rotor</Filter>
+    </Resource>
+    <Resource Include="Metal030_1K-JPG_Roughness.jpg">
+      <Filter>Resource Files\Textures\engine_housing_rotor</Filter>
+    </Resource>
+    <Resource Include="Metal027_1K-JPG_Roughness.jpg">
+      <Filter>Resource Files\Textures\engine_housing</Filter>
+    </Resource>
+    <Resource Include="Metal027.png">
+      <Filter>Resource Files\Textures\engine_housing</Filter>
+    </Resource>
+    <Resource Include="Metal027_1K-JPG_Color.jpg">
+      <Filter>Resource Files\Textures\engine_housing</Filter>
+    </Resource>
+    <Resource Include="Metal027_1K-JPG_Displacement.jpg">
+      <Filter>Resource Files\Textures\engine_housing</Filter>
+    </Resource>
+    <Resource Include="Metal027_1K-JPG_Metalness.jpg">
+      <Filter>Resource Files\Textures\engine_housing</Filter>
+    </Resource>
+    <Resource Include="Metal027_1K-JPG_NormalDX.jpg">
+      <Filter>Resource Files\Textures\engine_housing</Filter>
+    </Resource>
+    <Resource Include="Metal027_1K-JPG_NormalGL.jpg">
+      <Filter>Resource Files\Textures\engine_housing</Filter>
+    </Resource>
+    <Resource Include="Metal032_1K-JPG_Roughness.jpg">
+      <Filter>Resource Files\Textures\player_rudders</Filter>
+    </Resource>
+    <Resource Include="Metal032.png">
+      <Filter>Resource Files\Textures\player_rudders</Filter>
+    </Resource>
+    <Resource Include="Metal032_1K-JPG_Color.jpg">
+      <Filter>Resource Files\Textures\player_rudders</Filter>
+    </Resource>
+    <Resource Include="Metal032_1K-JPG_Displacement.jpg">
+      <Filter>Resource Files\Textures\player_rudders</Filter>
+    </Resource>
+    <Resource Include="Metal032_1K-JPG_Metalness.jpg">
+      <Filter>Resource Files\Textures\player_rudders</Filter>
+    </Resource>
+    <Resource Include="Metal032_1K-JPG_NormalDX.jpg">
+      <Filter>Resource Files\Textures\player_rudders</Filter>
+    </Resource>
+    <Resource Include="Metal032_1K-JPG_NormalGL.jpg">
+      <Filter>Resource Files\Textures\player_rudders</Filter>
+    </Resource>
+    <Resource Include="Metal011.png">
+      <Filter>Resource Files\Textures\propellor_blade</Filter>
+    </Resource>
+    <Resource Include="Metal011_1K-JPG_Color.jpg">
+      <Filter>Resource Files\Textures\propellor_blade</Filter>
+    </Resource>
+    <Resource Include="Metal011_1K-JPG_Displacement.jpg">
+      <Filter>Resource Files\Textures\propellor_blade</Filter>
+    </Resource>
+    <Resource Include="Metal011_1K-JPG_Metalness.jpg">
+      <Filter>Resource Files\Textures\propellor_blade</Filter>
+    </Resource>
+    <Resource Include="Metal011_1K-JPG_NormalDX.jpg">
+      <Filter>Resource Files\Textures\propellor_blade</Filter>
+    </Resource>
+    <Resource Include="Metal011_1K-JPG_NormalGL.jpg">
+      <Filter>Resource Files\Textures\propellor_blade</Filter>
+    </Resource>
+    <Resource Include="Metal011_1K-JPG_Roughness.jpg">
+      <Filter>Resource Files\Textures\propellor_blade</Filter>
+    </Resource>
+  </ItemGroup>
+  <ItemGroup>
+    <Object Include="meshes\zep_body.obj">
+      <Filter>Resource Files\Meshes</Filter>
+    </Object>
+    <Object Include="meshes\zep_engine_case.obj">
+      <Filter>Resource Files\Meshes</Filter>
+    </Object>
+    <Object Include="meshes\zep_engine_rod.obj">
+      <Filter>Resource Files\Meshes</Filter>
+    </Object>
+    <Object Include="meshes\zep_prop.obj">
+      <Filter>Resource Files\Meshes</Filter>
+    </Object>
+    <Object Include="meshes\zep_rudder.obj">
+      <Filter>Resource Files\Meshes</Filter>
+    </Object>
+    <Object Include="meshes\zep_car.obj">
+      <Filter>Resource Files\Meshes</Filter>
+    </Object>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="app.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Drawable.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Propellor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="utils.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Zeppelin.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BufferManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DrawTest.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SOIL2\image_DXT.c">
+      <Filter>Source Files\SOIL2</Filter>
+    </ClCompile>
+    <ClCompile Include="SOIL2\image_helper.c">
+      <Filter>Source Files\SOIL2</Filter>
+    </ClCompile>
+    <ClCompile Include="SOIL2\SOIL2.c">
+      <Filter>Source Files\SOIL2</Filter>
+    </ClCompile>
+    <ClCompile Include="SOIL2\wfETC.c">
+      <Filter>Source Files\SOIL2</Filter>
+    </ClCompile>
+    <ClCompile Include="ShaderManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MatrixManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Camera.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Lighting.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="World.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Drawable.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Propellor.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="utils.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Zeppelin.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BufferManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DrawTest.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SOIL2\image_DXT.h">
+      <Filter>Header Files\SOIL2</Filter>
+    </ClInclude>
+    <ClInclude Include="SOIL2\image_helper.h">
+      <Filter>Header Files\SOIL2</Filter>
+    </ClInclude>
+    <ClInclude Include="SOIL2\pkm_helper.h">
+      <Filter>Header Files\SOIL2</Filter>
+    </ClInclude>
+    <ClInclude Include="SOIL2\pvr_helper.h">
+      <Filter>Header Files\SOIL2</Filter>
+    </ClInclude>
+    <ClInclude Include="SOIL2\SOIL2.h">
+      <Filter>Header Files\SOIL2</Filter>
+    </ClInclude>
+    <ClInclude Include="SOIL2\stb_image.h">
+      <Filter>Header Files\SOIL2</Filter>
+    </ClInclude>
+    <ClInclude Include="SOIL2\stb_image_write.h">
+      <Filter>Header Files\SOIL2</Filter>
+    </ClInclude>
+    <ClInclude Include="SOIL2\stbi_DDS.h">
+      <Filter>Header Files\SOIL2</Filter>
+    </ClInclude>
+    <ClInclude Include="SOIL2\stbi_DDS_c.h">
+      <Filter>Header Files\SOIL2</Filter>
+    </ClInclude>
+    <ClInclude Include="SOIL2\stbi_ext.h">
+      <Filter>Header Files\SOIL2</Filter>
+    </ClInclude>
+    <ClInclude Include="SOIL2\stbi_ext_c.h">
+      <Filter>Header Files\SOIL2</Filter>
+    </ClInclude>
+    <ClInclude Include="SOIL2\stbi_pkm.h">
+      <Filter>Header Files\SOIL2</Filter>
+    </ClInclude>
+    <ClInclude Include="SOIL2\stbi_pkm_c.h">
+      <Filter>Header Files\SOIL2</Filter>
+    </ClInclude>
+    <ClInclude Include="SOIL2\stbi_pvr.h">
+      <Filter>Header Files\SOIL2</Filter>
+    </ClInclude>
+    <ClInclude Include="SOIL2\stbi_pvr_c.h">
+      <Filter>Header Files\SOIL2</Filter>
+    </ClInclude>
+    <ClInclude Include="SOIL2\stbi_qoi.h">
+      <Filter>Header Files\SOIL2</Filter>
+    </ClInclude>
+    <ClInclude Include="SOIL2\stbi_qoi_c.h">
+      <Filter>Header Files\SOIL2</Filter>
+    </ClInclude>
+    <ClInclude Include="SOIL2\stbi_qoi_write.h">
+      <Filter>Header Files\SOIL2</Filter>
+    </ClInclude>
+    <ClInclude Include="SOIL2\wfETC.h">
+      <Filter>Header Files\SOIL2</Filter>
+    </ClInclude>
+    <ClInclude Include="ShaderManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MatrixManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Lighting.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="World.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="a3.frag">
+      <Filter>Source Files\shaders\fragment</Filter>
+    </None>
+    <None Include="a3.vert">
+      <Filter>Source Files\shaders\vertex</Filter>
+    </None>
+    <None Include="a3_2.frag">
+      <Filter>Source Files\shaders\fragment</Filter>
+    </None>
+    <None Include="a3_2.vert">
+      <Filter>Source Files\shaders\vertex</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="textures\fun\Rickroll.jpg">
+      <Filter>Resource Files\Textures\fun</Filter>
+    </Image>
+    <Image Include="textures\ground\Ground068_1K-JPG_AmbientOcclusion.jpg">
+      <Filter>Resource Files\Textures\ground</Filter>
+    </Image>
+    <Image Include="textures\ground\Ground068_1K-JPG_Color.jpg">
+      <Filter>Resource Files\Textures\ground</Filter>
+    </Image>
+    <Image Include="textures\ground\Ground068_1K-JPG_Displacement.jpg">
+      <Filter>Resource Files\Textures\ground</Filter>
+    </Image>
+    <Image Include="textures\ground\Ground068_1K-JPG_NormalDX.jpg">
+      <Filter>Resource Files\Textures\ground</Filter>
+    </Image>
+    <Image Include="textures\ground\Ground068_1K-JPG_Roughness.jpg">
+      <Filter>Resource Files\Textures\ground</Filter>
+    </Image>
+  </ItemGroup>
+</Project>

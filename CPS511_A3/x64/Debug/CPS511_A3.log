@@ -1,0 +1,65 @@
+﻿  app.cpp
+C:\Users\matth\Desktop\School\Uni\Ryerson\4th year\Fall 2023\CPS511\Assignments\A3\CPS511_A3\CPS511_A3\app.cpp(68,16): warning C4930: 'MatrixManager m(void)': prototyped function not called (was a variable definition intended?)
+C:\Users\matth\Desktop\School\Uni\Ryerson\4th year\Fall 2023\CPS511\Assignments\A3\CPS511_A3\CPS511_A3\app.cpp(428,40): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\matth\Desktop\School\Uni\Ryerson\4th year\Fall 2023\CPS511\Assignments\A3\CPS511_A3\CPS511_A3\app.cpp(461,44): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\matth\Desktop\School\Uni\Ryerson\4th year\Fall 2023\CPS511\Assignments\A3\CPS511_A3\CPS511_A3\app.cpp(461,49): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\matth\Desktop\School\Uni\Ryerson\4th year\Fall 2023\CPS511\Assignments\A3\CPS511_A3\CPS511_A3\app.cpp(461,54): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\matth\Desktop\School\Uni\Ryerson\4th year\Fall 2023\CPS511\Assignments\A3\CPS511_A3\CPS511_A3\app.cpp(461,59): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\matth\Desktop\School\Uni\Ryerson\4th year\Fall 2023\CPS511\Assignments\A3\CPS511_A3\CPS511_A3\app.cpp(467,48): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\matth\Desktop\School\Uni\Ryerson\4th year\Fall 2023\CPS511\Assignments\A3\CPS511_A3\CPS511_A3\app.cpp(489,48): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\matth\Desktop\School\Uni\Ryerson\4th year\Fall 2023\CPS511\Assignments\A3\CPS511_A3\CPS511_A3\app.cpp(629,54): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\matth\Desktop\School\Uni\Ryerson\4th year\Fall 2023\CPS511\Assignments\A3\CPS511_A3\CPS511_A3\app.cpp(630,52): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\matth\Desktop\School\Uni\Ryerson\4th year\Fall 2023\CPS511\Assignments\A3\CPS511_A3\CPS511_A3\app.cpp(631,54): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\matth\Desktop\School\Uni\Ryerson\4th year\Fall 2023\CPS511\Assignments\A3\CPS511_A3\CPS511_A3\app.cpp(632,51): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\matth\Desktop\School\Uni\Ryerson\4th year\Fall 2023\CPS511\Assignments\A3\CPS511_A3\CPS511_A3\app.cpp(635,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  BufferManager.cpp
+  Camera.cpp
+  Drawable.cpp
+C:\Users\matth\Desktop\School\Uni\Ryerson\4th year\Fall 2023\CPS511\Assignments\A3\CPS511_A3\CPS511_A3\Drawable.cpp(86,21): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\matth\Desktop\School\Uni\Ryerson\4th year\Fall 2023\CPS511\Assignments\A3\CPS511_A3\CPS511_A3\Drawable.cpp(87,21): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\matth\Desktop\School\Uni\Ryerson\4th year\Fall 2023\CPS511\Assignments\A3\CPS511_A3\CPS511_A3\Drawable.cpp(89,20): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\matth\Desktop\School\Uni\Ryerson\4th year\Fall 2023\CPS511\Assignments\A3\CPS511_A3\CPS511_A3\Drawable.cpp(90,20): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\matth\Desktop\School\Uni\Ryerson\4th year\Fall 2023\CPS511\Assignments\A3\CPS511_A3\CPS511_A3\Drawable.cpp(92,20): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\matth\Desktop\School\Uni\Ryerson\4th year\Fall 2023\CPS511\Assignments\A3\CPS511_A3\CPS511_A3\Drawable.cpp(93,20): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\matth\Desktop\School\Uni\Ryerson\4th year\Fall 2023\CPS511\Assignments\A3\CPS511_A3\CPS511_A3\Drawable.cpp(96,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\matth\Desktop\School\Uni\Ryerson\4th year\Fall 2023\CPS511\Assignments\A3\CPS511_A3\CPS511_A3\Drawable.cpp(121,21): warning C4018: '<': signed/unsigned mismatch
+  DrawTest.cpp
+C:\Users\matth\Desktop\School\Uni\Ryerson\4th year\Fall 2023\CPS511\Assignments\A3\CPS511_A3\CPS511_A3\DrawTest.cpp(44,20): warning C4312: 'type cast': conversion from 'GLuint' to 'void *' of greater size
+  MatrixManager.cpp
+  Propellor.cpp
+  ShaderManager.cpp
+C:\Users\matth\Desktop\School\Uni\Ryerson\4th year\Fall 2023\CPS511\Assignments\A3\CPS511_A3\CPS511_A3\ShaderManager.cpp(26,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'unsigned __int64'
+C:\Users\matth\Desktop\School\Uni\Ryerson\4th year\Fall 2023\CPS511\Assignments\A3\CPS511_A3\CPS511_A3\ShaderManager.cpp(26,9): message : consider using '%zd' in the format string
+  utils.cpp
+C:\Users\matth\Desktop\School\Uni\Ryerson\4th year\Fall 2023\CPS511\Assignments\A3\CPS511_A3\CPS511_A3\utils.cpp(103,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\matth\Desktop\School\Uni\Ryerson\4th year\Fall 2023\CPS511\Assignments\A3\CPS511_A3\CPS511_A3\utils.cpp(124,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\matth\Desktop\School\Uni\Ryerson\4th year\Fall 2023\CPS511\Assignments\A3\CPS511_A3\CPS511_A3\utils.cpp(128,87): warning C4244: '=': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\matth\Desktop\School\Uni\Ryerson\4th year\Fall 2023\CPS511\Assignments\A3\CPS511_A3\CPS511_A3\utils.cpp(129,88): warning C4244: '=': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\matth\Desktop\School\Uni\Ryerson\4th year\Fall 2023\CPS511\Assignments\A3\CPS511_A3\CPS511_A3\utils.cpp(135,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\matth\Desktop\School\Uni\Ryerson\4th year\Fall 2023\CPS511\Assignments\A3\CPS511_A3\CPS511_A3\utils.cpp(138,54): warning C4244: '=': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\matth\Desktop\School\Uni\Ryerson\4th year\Fall 2023\CPS511\Assignments\A3\CPS511_A3\CPS511_A3\utils.cpp(146,9): warning C4101: 'id': unreferenced local variable
+  Lighting.cpp
+C:\Users\matth\Desktop\School\Uni\Ryerson\4th year\Fall 2023\CPS511\Assignments\A3\CPS511_A3\CPS511_A3\Lighting.cpp(6,41): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\matth\Desktop\School\Uni\Ryerson\4th year\Fall 2023\CPS511\Assignments\A3\CPS511_A3\CPS511_A3\Lighting.cpp(6,46): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\matth\Desktop\School\Uni\Ryerson\4th year\Fall 2023\CPS511\Assignments\A3\CPS511_A3\CPS511_A3\Lighting.cpp(6,51): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\matth\Desktop\School\Uni\Ryerson\4th year\Fall 2023\CPS511\Assignments\A3\CPS511_A3\CPS511_A3\Lighting.cpp(6,56): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\matth\Desktop\School\Uni\Ryerson\4th year\Fall 2023\CPS511\Assignments\A3\CPS511_A3\CPS511_A3\Lighting.cpp(7,42): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\matth\Desktop\School\Uni\Ryerson\4th year\Fall 2023\CPS511\Assignments\A3\CPS511_A3\CPS511_A3\Lighting.cpp(7,47): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\matth\Desktop\School\Uni\Ryerson\4th year\Fall 2023\CPS511\Assignments\A3\CPS511_A3\CPS511_A3\Lighting.cpp(7,52): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\matth\Desktop\School\Uni\Ryerson\4th year\Fall 2023\CPS511\Assignments\A3\CPS511_A3\CPS511_A3\Lighting.cpp(7,57): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  World.cpp
+C:\Users\matth\Desktop\School\Uni\Ryerson\4th year\Fall 2023\CPS511\Assignments\A3\CPS511_A3\CPS511_A3\World.cpp(113,10): warning C4244: 'initializing': conversion from 'GLdouble' to 'float', possible loss of data
+C:\Users\matth\Desktop\School\Uni\Ryerson\4th year\Fall 2023\CPS511\Assignments\A3\CPS511_A3\CPS511_A3\World.cpp(120,15): warning C4244: '=': conversion from 'GLdouble' to 'float', possible loss of data
+C:\Users\matth\Desktop\School\Uni\Ryerson\4th year\Fall 2023\CPS511\Assignments\A3\CPS511_A3\CPS511_A3\World.cpp(129,15): warning C4244: '=': conversion from 'GLdouble' to 'float', possible loss of data
+C:\Users\matth\Desktop\School\Uni\Ryerson\4th year\Fall 2023\CPS511\Assignments\A3\CPS511_A3\CPS511_A3\World.cpp(136,15): warning C4244: '=': conversion from 'GLdouble' to 'float', possible loss of data
+  Zeppelin.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\format(43): warning STL4038: The contents of <format> are available only with C++20 or later.
+C:\Users\matth\Desktop\School\Uni\Ryerson\4th year\Fall 2023\CPS511\Assignments\A3\CPS511_A3\CPS511_A3\Zeppelin.cpp(363,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+C:\Users\matth\Desktop\School\Uni\Ryerson\4th year\Fall 2023\CPS511\Assignments\A3\CPS511_A3\CPS511_A3\Propellor.cpp(257): warning C4715: 'Propellor::startLiftLandProcess': not all control paths return a value
+  image_DXT.c
+  image_helper.c
+  SOIL2.c
+  wfETC.c
+  Generating Code...
+  CPS511_A3.vcxproj -> C:\Users\matth\Desktop\School\Uni\Ryerson\4th year\Fall 2023\CPS511\Assignments\A3\CPS511_A3\x64\Debug\CPS511_A3.exe
